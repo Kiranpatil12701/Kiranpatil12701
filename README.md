@@ -1,7 +1,7 @@
 ### Hello Visitor, 👋
 
 ## Welcome to my page 
-![5 Projects](https://shields.io/badge/Project-5-green) ![3 Repository](https://shields.io/badge/Repository-3-green)
+![5 Projects](https://shields.io/badge/Project-5-green) ![4 Repository](https://shields.io/badge/Repository-3-green)
 
 ### Languages
 ![HTML5](https://shields.io/badge/HTML-green?logo=HTML5) ![CSS3](https://shields.io/badge/CSS-darkcyan?logo=CSS3) ![Bootstrap](https://shields.io/badge/Bootstrap-blue?logo=bootstrap) ![Javascript](https://shields.io/badge/Javascript-light?logo=JAVASCRIPT) ![Jquery](https://shields.io/badge/Jquery-red?logo=jquery) ![PHP](https://shields.io/badge/PHP-dark?logo=php) ![Laravel](https://shields.io/badge/Laravel-blue?logo=laravel)
